@@ -1,0 +1,22 @@
+/* Result.css */
+
+.result {
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.result h2 {
+    color: #3498db;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.result p {
+    color: #333;
+    line-height: 1.6;
+    font-size: 1rem;
+}
